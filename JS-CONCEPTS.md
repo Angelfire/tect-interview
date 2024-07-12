@@ -2,12 +2,6 @@
 
 ## Table of Contents
 
-# JavaScript Concepts
-
-# JS Core Concepts
-
-## Table of Contents
-
 - 1. Loops
   - 1.1. for Loop
   - 1.2. while Loop
