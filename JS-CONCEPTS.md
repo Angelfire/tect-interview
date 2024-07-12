@@ -56,5 +56,6 @@
   - 5.2. Flow
 
 - 6. Inheritance
+
   - 6.1. Prototypal inheritance (default in JS)
   - 6.2. Class-based inheritance (ES6+ syntax sugar)
