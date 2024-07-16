@@ -33,7 +33,7 @@
       console.log(`${prop}: ${obj[prop]}`);
     }
     ```
-  - 1.5. for..of Loop (Array elements)
+  - 1.5. for...of Loop (Array elements)
     ```js
     const arr = [1, 2, 3];
     for (let item of arr) {
